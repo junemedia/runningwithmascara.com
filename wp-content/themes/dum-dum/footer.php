@@ -29,6 +29,15 @@
 <script type="text/javascript" src="http://runningwithmascara.us.intellitxt.com/intellitxt/front.asp?ipid=25578"></script>
 <!-- end Vibrant Media IntelliTXT script section -->
 
+<!-- Adsense code -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-6604420610287183",
+    enable_page_level_ads: true
+  });
+</script>
+
 <!-- LiveRamp --><iframe name="_rlcdn" width=0 height=0 frameborder=0 src="http://rc.rlcdn.com/366718.html"></iframe><!-- LiveRamp -->
 </body>
 </html>
